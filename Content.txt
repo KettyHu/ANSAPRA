@@ -1,0 +1,24 @@
+ANSAPRA-Local/
+├── __pycache__/
+│   └── app.cpython-313.pyc
+├── data/
+│   └── users.json
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── language.js
+│   │   ├── main.js
+│   │   └── settings.js
+│   └── lang/
+│       ├── formatted_translations.json
+│       └── translations.json
+├── templates/
+│   └── index.html
+├── .env
+├── app.py
+├── gunicorn_config.py
+├── requirements.txt
+├── run_local.py
+├── server.log
+└── test_server.py
