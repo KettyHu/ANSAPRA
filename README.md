@@ -1,5 +1,5 @@
 # ANSAPRA
-This project is available at https://ansapra.com🤩
+This project is available at https://ansapra.com 🤩
 
 Scientific academic papers, also known as Primary Scientific Literature (PSLs), carry the most cutting-edge information in the scientific community and serve as the most direct and original scientific medium. 
 While they are widely disseminated in professional research fields, they rarely directly enter the public science popularization and education domains. 
